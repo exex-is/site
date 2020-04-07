@@ -31,4 +31,6 @@ npm run build
 
 [MIT](LICENSE)
 
+## Created by
+
 Made with :blue_heart: by [exex.is](http://exex.is)
