@@ -1,7 +1,7 @@
 {
-  "name": "AnimatedCustomCursor",
+  "name": "exex.is",
   "version": "1.0.0",
-  "description": "",
+  "description": "Exploring experiences website",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html --open",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codrops/AnimatedCustomCursor.git"
+    "url": "git://github.com/exex-is/site.git"
   },
   "keywords": [],
   "author": "Codrops",
   "license": "MIT",
-  "homepage": "https://tympanus.net/Development/AnimatedCustomCursor/",
+  "homepage": "https://exex.is",
   "bugs": {
-    "url": "https://github.com/codrops/AnimatedCustomCursor/issues"
+    "url": "https://github.com/exex-is/site/issues"
   },
   "dependencies": {
     "gsap": "^3.2.4",
