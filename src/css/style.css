@@ -234,3 +234,10 @@ a:focus {
 		stroke-width: var(--cursor-stroke-width);
 	}
 }
+
+@media screen and (max-width: 30em) {
+	.content p {
+		
+		font-size: 7.5vw;
+	}
+}

@@ -235,5 +235,11 @@ a:focus {
 	}
 }
 
+@media screen and (max-width: 30em) {
+	.content p {
+		
+		font-size: 7.5vw;
+	}
+}
 
 /*# sourceMappingURL=/style.78032849.css.map */
